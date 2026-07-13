@@ -7,7 +7,7 @@
 <br>  
 
 <p align="center">  
-  <a href="getgithub.help">  
+  <a href="https://getgithub.help">  
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get CorelDRAW for Windows">  
   </a>  
 </p>
